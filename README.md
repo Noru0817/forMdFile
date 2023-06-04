@@ -22,9 +22,9 @@
 
 ## 개발 동기
 
-> *"**<span style="color:blue">게임을 만든 다면 더욱 실력을 향상 시킬 수 있는 기회입니다." </span> - 박상원 교수님***
+> ***<span style="color: green;">"게임을 만든 다면 더욱 실력을 향상 시킬 수 있는 기회입니다."</span>- 박상원 교수님***
 
 **→ 주어진 기간 내에 작품 완성 및 개인의 실력 향상을 도모하기 위해 어려운 주제임에도 최선을 다하고자 게임 개발을 선택했습니다.**
 ## 플로우 차트
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVMF6hOgI=/?pres=1&frameId=3458764556212905913&embedId=439875056140" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+![플로우차트](/flowchart/FlappyHUFS.jpg)
